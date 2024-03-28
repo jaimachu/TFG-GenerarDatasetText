@@ -1,0 +1,27 @@
+Biografía de Joseph Engelberger
+
+Joseph Frederick Engelberger fue un innovador empresario estadounidense considerado como el padre de la robótica industrial. Nacido el 26 de julio de 1925 en Nueva York, Engelberger es conocido por haber creado el primer robot industrial en la década de 1950. A lo largo de su carrera, contribuyó significativamente al desarrollo y popularización de la robótica en la industria manufacturera.
+
+Engelberger estudió ingeniería eléctrica en el Instituto de Tecnología de Columbia, donde se graduó en 1946. Después de trabajar en el laboratorio de investigación de la empresa Manning, Maxwell & Moore, decidió emprender su propia empresa de tecnología. En 1956, fundó la empresa Unimation, junto con George Devol, para desarrollar y comercializar robots industriales.
+
+Durante las décadas de 1960 y 1970, Engelberger y su equipo de Unimation trabajaron en la creación de varios modelos de robots industriales, que fueron utilizados en diversas industrias para realizar tareas repetitivas y peligrosas. En 1961, Unimation introdujo el primer robot industrial, el "Unimate", que fue utilizado por General Motors en su línea de montaje de automóviles.
+
+A lo largo de su carrera, Engelberger recibió numerosos premios y reconocimientos por su contribución a la robótica industrial. En 1984, fue incluido en el Salón de la Fama de la Robótica de la Asociación de Industrias Robóticas de América del Norte. Además, en 2003, fue galardonado con la Medalla Nacional de Tecnología e Innovación, el más alto honor que un individuo puede recibir en los Estados Unidos por contribuciones significativas al avance de la tecnología.
+
+Véase también
+
+- Robótica industrial: Engelberger fue uno de los pioneros en el desarrollo de la robótica industrial y su trabajo ha sido fundamental para el avance de esta disciplina en la industria manufacturera.
+- Unimation: La empresa fundada por Engelberger y George Devol, que fue pionera en la creación y comercialización de robots industriales.
+- George Devol: Socio de Engelberger en la creación de Unimation y co-inventor del primer robot industrial.
+
+Referencias
+
+1. Horswill, Ian. (2018). Joseph F. Engelberger, Father of Robotics, Dies at 90. The New York Times. https://www.nytimes.com/2015/12/04/business/joseph-f-engelberger-father-of-robotics-dies-at-90.html
+2. Engelberger, Joseph F. (2000). Robotics in Practice: Management and Applications of Industrial Robots. Springer.
+3. Engelberger, Joseph F. (1998). Robotics: The Marriage of Computers and Machines. Fast Company.
+
+Enlaces externos
+
+- Asociación de Industrias Robóticas de América del Norte: https://www.robotics.org
+- Instituto de Tecnología de Columbia: https://www.columbia.edu
+- Unimation Robotics: https://www.unimation.com
